@@ -5,6 +5,8 @@ Airbnb is an American company that operates an online marketplace for lodging, p
   
 This data exploration project will explain several aspects like what feature affects the price, what is the most popular property type in the town for Airbnb, and at the end will predict the price based on the features of the properties.  
   
+The project is intended to meet the requirement for Udacity Data Science Nanodegree.
+  
 The data of this project is obtained from [Kaggle](https://www.kaggle.com/airbnb/seattle/data).  
   
 There is also a blog about this project on [Medium](https://medium.com)
